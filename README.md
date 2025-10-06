@@ -24,7 +24,7 @@ The HFE-D module is shown below.
 ```
 $ git clone https://github.com/wjj1wjj/XRay2CT-SAM.git
 $ cd XRay2CT-SAM
-$ conda env create -f environment.yaml
+$ conda env create -f environment.yml
 $ conda activate XRay2CT-SAM
 ```
 
