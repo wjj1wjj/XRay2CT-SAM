@@ -58,10 +58,8 @@ $ python XctNet_MASA/MedSAM/MedXct_test.py
 ```
 
 # 📊 Contact  
-If you have any questions, please feel free to contact bo.liu@buaa.edu.cn.
+If you have any questions, please feel free to contact bo.liu@buaa.edu.cn.  
 
-
-
-
-
+# 📜 License  
+This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
 
