@@ -50,11 +50,11 @@ The reason why we create subfiles under h5py instead of listing all files direct
 
 To train our model, run:
 ```
-$ python XctNet_MASA/MedSAM/MedXct_train.py
+$ python MedSAM/MedXct_train.py
 ```
 To test our model, run:
 ```
-$ python XctNet_MASA/MedSAM/MedXct_test.py
+$ python MedSAM/MedXct_test.py
 ```
 
 # 📊 Contact  
